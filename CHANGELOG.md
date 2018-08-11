@@ -3,6 +3,11 @@
 
 
 
+<a name="0.17.0"></a>
+# [0.17.0](https://github.com/vuejs/vuepress/compare/v0.16.0...v0.17.0) (2018-08-09)
+
+
+
 <a name="0.14.0"></a>
 # [0.14.0](https://github.com/vuejs/vuepress/compare/v0.13.1...v0.14.0) (2018-08-08)
 
